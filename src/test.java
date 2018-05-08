@@ -10,5 +10,6 @@ public class test {
         System.out.println("aa");
         System.out.println("bb");
 	    System.out.println("xx");
+	    System.out.println("ww");
     }
 }
