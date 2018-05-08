@@ -11,5 +11,7 @@ public class test {
         System.out.println("bb");
 	    System.out.println("xx");
 	    System.out.println("ww");
+	    System.out.println("yy");
+	    System.out.println("zz");
     }
 }
