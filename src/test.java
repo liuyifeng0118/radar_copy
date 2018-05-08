@@ -8,5 +8,6 @@ public class test {
         System.out.println("cc");
         System.out.println("小米份");
         System.out.println("小米粥");
+        System.out.println("aa");
     }
 }
