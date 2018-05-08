@@ -9,6 +9,8 @@ public class test {
         System.out.println("小米份");
         System.out.println("aa");
         System.out.println("bb");
+        System.out.println("大笨蛋");
+        System.out.println("2");
         System.out.println("大呲花");
         System.out.println("1");
     }
