@@ -10,5 +10,6 @@ public class test {
         System.out.println("aa");
         System.out.println("bb");
         System.out.println("大呲花");
+        System.out.println("1");
     }
 }
